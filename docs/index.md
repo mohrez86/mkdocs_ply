@@ -15,3 +15,18 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
     docs/
         index.md  # The documentation homepage.
         ...       # Other markdown pages, images and other files.
+
+
+## Something to Test
+
+$$
+\frac{
+      \textstyle O, M, C, R \vdash e_1 : [T]
+      \atop 
+      \textstyle O, M, C, R \vdash e_2 : int
+     }
+     {
+      \textstyle O, M, C, R \vdash e_1[e_2] : T
+     }
+      \quad \text{[LIST-SELECT]}
+$$
