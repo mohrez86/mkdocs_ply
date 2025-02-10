@@ -1,2 +1,3 @@
 mkdocs
-pymdown-extensions
+pymdown-extensions  # for math
+mkdocs-material  # for theme
