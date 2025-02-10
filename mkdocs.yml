@@ -1,7 +1,12 @@
 site_name: My Docs
 nav:
   - Home: index.md
-  - About: about.md
+#  - About: about.md
+  - User Guide:
+      - Installation: user/installation.md
+  - API Documentation:
+      - Entry Points and Handlers: api/entry.md
+
 theme: readthedocs
 
 markdown_extensions:
