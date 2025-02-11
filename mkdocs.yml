@@ -8,7 +8,7 @@ nav:
       - Entry Points and Handlers: api/entry.md
 
 theme:
-  name: material
+  name: readthedocs
   locale: en
 
 #  color_mode: auto
